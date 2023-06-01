@@ -1,9 +1,9 @@
-# SI_20123_lab2_213134
+# SI_2023_lab2_213134
 
 Миа Стојанова 213134
 
 2.)
-![image](https://github.com/miastojanova/SI_20123_lab2_213134/assets/126724504/d9fb7e2b-f6de-4639-a388-f0a168821294)
+![CFG](control_flow_graph_lab2.png)
 
 3.) Цикломатската комплексност е 11. Резултатот е добиен со броење на сите предикатни јазли (во случајов 10 - 8 if-ови и 2 for услови 8.2 и 20.2) и додавање +1.
 
@@ -14,13 +14,13 @@
 - Test case 4 username да има вредност null и да има помалку од 8 каректери во password
 - Test case 5 без специјален занк во password
 
-![image](https://github.com/miastojanova/SI_20123_lab2_213134/assets/126724504/e440d8f1-007f-46f8-a9d1-376df5ba85bf)
+![EB](every_branch_table.png)
 
 
 5.)
 На сликата се дадени сите test cases според MC критериумот (доколку секои од параметрите имаат или немаат null вредност) како и минималниот бтој на потребни тест случаи.
 
-![image](https://github.com/miastojanova/SI_20123_lab2_213134/assets/126724504/f9dc9051-4efa-42b2-ac59-92dc94f70bc8)
+![MCC](mcc_table.png)
 
 
 
